@@ -1,3 +1,2 @@
 1. Lebih memahami tentang flutter
-2. Belajar git dan git hub
-3. Belajar python
+2. Belajar python
